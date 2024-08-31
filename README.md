@@ -1,4 +1,4 @@
-## Hi there 👋
+<h2>Hola, me llamo Daniel Ruiz 👋</h2>
 
 <!--
 **DanieloDEV24/DanieloDEV24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
