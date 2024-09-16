@@ -9,5 +9,6 @@
 &nbsp;&nbsp;&nbsp;<a href="https://getbootstrap.com/" data-bs-toggle="tooltip" title="Bootstrap"><img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white"></a>
 &nbsp;&nbsp;&nbsp;<a href="https://git-scm.com/" data-bs-toggle="tooltip" title="Git"><img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"></a>
 &nbsp;&nbsp;&nbsp;<a href="https://code.visualstudio.com/" data-bs-toggle="tooltip" title="VS Code"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
+&nbsp;&nbsp;&nbsp;<a href="https://www.typescriptlang.org/" data-bs-toggle="tooltip" title="TypeScript"><img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white"></a>
 </p>
 
