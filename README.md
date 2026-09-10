@@ -47,9 +47,10 @@ Desarrollador **Full Stack** y docente en desarrollo web. Me gusta construir cos
 <img src="https://cdn.simpleicons.org/wordpress/F97316" width="48" height="48" title="WordPress"/>&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/json/F97316" width="48" height="48" title="JSON"/>&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/git/F97316" width="48" height="48" title="Git"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/linux/F97316" width="48" height="48" title="Linux"/>
+<img src="https://cdn.simpleicons.org/linux/F97316" width="48" height="48" title="Linux"/>&nbsp;&nbsp;
+<img src="https://api.iconify.design/mdi/microsoft-visual-studio-code.svg?color=%23F97316" width="48" height="48" title="VS Code"/>
 
-<!-- ℹ️ El icono de VS Code ya no existe en Simple Icons (Microsoft pidió retirar sus logos de marca), por eso se quitó de esta fila. Sigue mencionado en el texto de abajo. -->
+<!-- ℹ️ El icono de VS Code ya no existe en Simple Icons (Microsoft pidió retirar sus logos de marca), así que este viene de Iconify (set Material Design Icons) en vez de cdn.simpleicons.org -->
 
 <br/><br/>
 
@@ -72,7 +73,9 @@ Desarrollador **Full Stack** y docente en desarrollo web. Me gusta construir cos
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DanieloDEV24&bg_color=0D1117&color=F97316&line=F97316&point=F97316&area=true&hide_border=true" alt="Gráfico de actividad" width="100%"/>
+<img src="https://ghchart.rshah.org/F97316/DanieloDEV24" alt="Gráfico de contribuciones" width="100%"/>
+
+<!-- ℹ️ github-readme-activity-graph está caído (error 402) ahora mismo, así que se volvió al gráfico de ghchart.rshah.org original. Este servicio no permite oscurecer los días sin commits (limitación del propio servicio, no tiene parámetro para el fondo). -->
 
 </div>
 
