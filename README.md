@@ -90,7 +90,7 @@ Desarrollador **Full Stack** y docente en desarrollo web. Me gusta construir cos
          width="45%"
          alt="Resérvalo - card del proyecto">
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/DanieloDEV24/fuentedepiedraturismo">
     <img src="https://raw.githubusercontent.com/DanieloDEV24/DanieloDEV24/main/turismo-card.png"
          width="45%"
@@ -104,7 +104,7 @@ Desarrollador **Full Stack** y docente en desarrollo web. Me gusta construir cos
          width="45%"
          alt="Rótulos Moncayo - card del proyecto">
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/DanieloDEV24/maynosolutions">
     <img src="https://raw.githubusercontent.com/DanieloDEV24/DanieloDEV24/main/myno-card.png"
          width="45%"
