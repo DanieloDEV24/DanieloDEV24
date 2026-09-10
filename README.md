@@ -87,13 +87,13 @@ Desarrollador **Full Stack** y docente en desarrollo web. Me gusta construir cos
 <p>
   <a href="https://github.com/DanieloDEV24/reservalo2.0">
     <img src="https://raw.githubusercontent.com/DanieloDEV24/DanieloDEV24/main/reservalo-card.png"
-         width="49%"
+         width="47%"
          alt="Resérvalo - card del proyecto">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/DanieloDEV24/fuentedepiedraturismo">
     <img src="https://raw.githubusercontent.com/DanieloDEV24/DanieloDEV24/main/turismo-card.png"
-         width="49%"
+         width="47%"
          alt="Fuente de Piedra Turismo - card del proyecto">
   </a>
 </p>
