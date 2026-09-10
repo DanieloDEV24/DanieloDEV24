@@ -39,7 +39,7 @@ Desarrollador **Full Stack** y docente en desarrollo web. Me gusta construir cos
 <img src="https://cdn.simpleicons.org/openjdk/F97316" width="48" height="48" title="Java"/>&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/mysql/F97316" width="48" height="48" title="MySQL"/>&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/html5/F97316" width="48" height="48" title="HTML5"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/css3/F97316" width="48" height="48" title="CSS3"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/css/F97316" width="48" height="48" title="CSS3"/>&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/javascript/F97316" width="48" height="48" title="JavaScript"/>&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/typescript/F97316" width="48" height="48" title="TypeScript"/>&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/jquery/F97316" width="48" height="48" title="jQuery"/>&nbsp;&nbsp;
@@ -47,8 +47,9 @@ Desarrollador **Full Stack** y docente en desarrollo web. Me gusta construir cos
 <img src="https://cdn.simpleicons.org/wordpress/F97316" width="48" height="48" title="WordPress"/>&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/json/F97316" width="48" height="48" title="JSON"/>&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/git/F97316" width="48" height="48" title="Git"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/linux/F97316" width="48" height="48" title="Linux"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/visualstudiocode/F97316" width="48" height="48" title="VS Code"/>
+<img src="https://cdn.simpleicons.org/linux/F97316" width="48" height="48" title="Linux"/>
+
+<!-- ℹ️ El icono de VS Code ya no existe en Simple Icons (Microsoft pidió retirar sus logos de marca), por eso se quitó de esta fila. Sigue mencionado en el texto de abajo. -->
 
 <br/><br/>
 
@@ -62,16 +63,16 @@ Desarrollador **Full Stack** y docente en desarrollo web. Me gusta construir cos
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DanieloDEV24&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&border_radius=10"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanieloDEV24&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&border_radius=10"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=DanieloDEV24&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F97316&icon_color=F97316&text_color=ffffff&border_radius=10"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanieloDEV24&layout=compact&hide_border=true&bg_color=0D1117&title_color=F97316&text_color=ffffff&border_radius=10"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=DanieloDEV24&theme=radical&hide_border=true&background=0D1117&border_radius=10"/>
+<img src="https://streak-stats.demolab.com?user=DanieloDEV24&hide_border=true&background=0D1117&border_radius=10&ring=F97316&fire=F97316&currStreakNum=F97316&sideNums=F97316&currStreakLabel=F97316&sideLabels=F97316&dates=F97316"/>
 
 <br/><br/>
 
-<img src="https://ghchart.rshah.org/F97316/DanieloDEV24" alt="Gráfico de contribuciones" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DanieloDEV24&bg_color=0D1117&color=F97316&line=F97316&point=F97316&area=true&hide_border=true" alt="Gráfico de actividad" width="100%"/>
 
 </div>
 
