@@ -52,8 +52,6 @@ Desarrollador **Full Stack** y docente en desarrollo web. Me gusta construir cos
 
 <!-- ℹ️ El icono de VS Code ya no existe en ningún CDN de iconos de marca (Simple Icons lo retiró por marca registrada). Este SVG está alojado en tu propio repo, sube "vscode-orange.svg" a la raíz de DanieloDEV24/DanieloDEV24 junto al banner. -->
 
-<br/><br/>
-
 <sub>**Backend:** PHP · CodeIgniter · Java · MySQL &nbsp;|&nbsp; **Frontend:** HTML5 · CSS3 · JavaScript · TypeScript · jQuery · Bootstrap &nbsp;|&nbsp; **CMS:** WordPress · JSON &nbsp;|&nbsp; **Herramientas:** Git · Linux · VS Code</sub>
 
 </div>
