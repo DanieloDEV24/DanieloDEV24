@@ -83,8 +83,10 @@ Desarrollador **Full Stack** y docente en desarrollo web. Me gusta construir cos
 
 <!-- ⚠️ Cambia "reservalo-2" y "fuentedepiedraturismo" por los nombres exactos (case-sensitive) de tus repos públicos. Con un nombre que no existe, la tarjeta no carga. -->
 <div align="center">
-<a href="https://github.com/DanieloDEV24/NOMBRE-DEL-REPO"><img src="https://raw.githubusercontent.com/DanieloDEV24/DanieloDEV24/main/reservalo-card.png" width="100%" alt="Resérvalo - card del proyecto"/></a>
-<a href="https://github.com/DanieloDEV24/NOMBRE-DEL-REPO"><img src="https://raw.githubusercontent.com/DanieloDEV24/DanieloDEV24/main/turismo-card.png" width="100%" alt="Resérvalo - card del proyecto"/></a>
+<a href="https://github.com/DanieloDEV24/reservalo2.0"><img src="https://raw.githubusercontent.com/DanieloDEV24/DanieloDEV24/main/reservalo-card.png" width="100%" alt="Resérvalo - card del proyecto"/></a>
+<a href="https://github.com/DanieloDEV24/fuentedepiedraturismo"><img src="https://raw.githubusercontent.com/DanieloDEV24/DanieloDEV24/main/turismo-card.png" width="100%" alt="Fuente de Piedra Turismo - card del proyecto"/></a>
+<a href="https://github.com/DanieloDEV24/rotulosmoncayo"><img src="https://raw.githubusercontent.com/DanieloDEV24/DanieloDEV24/main/moncayo-card.png" width="100%" alt="Rotulos Moncayo - card del proyecto"/>
+<a href="https://github.com/DanieloDEV24/maynosolutions"><img src="https://raw.githubusercontent.com/DanieloDEV24/DanieloDEV24/main/myno-card.png" width="100%" alt="Myno Studio - card del proyecto"/>
 </div>
 
 <br/>
