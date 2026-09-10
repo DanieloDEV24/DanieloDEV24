@@ -81,7 +81,31 @@ Desarrollador **Full Stack** y docente en desarrollo web. Me gusta construir cos
 
 <!-- ⚠️ Cambia "reservalo-2" y "fuentedepiedraturismo" por los nombres exactos (case-sensitive) de tus repos públicos. Con un nombre que no existe, la tarjeta no carga. -->
 <div align="center">
+<table>
+<tr>
+<td width="50%">
 
+## 🚀 Nombre del proyecto
+
+**Landing Page**
+
+Diseño y desarrollo de una web moderna, responsive y optimizada para ofrecer una experiencia de usuario rápida y atractiva.
+
+**Tecnologías**
+
+`HTML` `CSS` `JavaScript`
+
+[Ver proyecto →](#)
+
+</td>
+
+<td width="50%">
+
+<img src="./assets/proyecto-preview.png" width="100%" alt="Preview">
+
+</td>
+</tr>
+</table>
 <a href="https://github.com/DanieloDEV24/reservalo-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DanieloDEV24&repo=reservalo-2&theme=radical&hide_border=true&bg_color=0D1117&border_radius=10"/></a>
 <a href="https://github.com/DanieloDEV24/fuentedepiedraturismo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DanieloDEV24&repo=fuentedepiedraturismo&theme=radical&hide_border=true&bg_color=0D1117&border_radius=10"/></a>
 
