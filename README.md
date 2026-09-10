@@ -81,58 +81,27 @@ Desarrollador **Full Stack** y docente en desarrollo web. Me gusta construir cos
 
 <!-- ⚠️ Cambia "reservalo-2" y "fuentedepiedraturismo" por los nombres exactos (case-sensitive) de tus repos públicos. Con un nombre que no existe, la tarjeta no carga. -->
 <div align="center">
+<table> <tr> <td width="600">
+<span style="color:
+#2dd4bf">Resérvalo.</span>
 
-<table>
-<tr>
-<td width="100%">
+🟢 En desarrollo </>
 
-<img src="./assets/reservalo-preview.png" width="100%" alt="Reservalo">
+Reserva pistas deportivas, espacios municipales y actividades como excursiones en pocos clics. Disponibilidad en tiempo real y gestión de reservas, todo desde un solo lugar.
 
-<br>
+GitHub Demo
 
-<h1 align="left">
-  Reservalo.
-  <span style="color:#ff5c00;">↗</span>
-</h1>
+</td> </tr> </table> <!-- Copia el bloque <tr>...</tr> de arriba para cada nuevo proyecto que quieras añadir a la tabla --> <table> <tr> <td width="600">
+<span style="color:
+#2dd4bf">Otro Proyecto.</span>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/●_En_desarrollo-ff5c00?style=flat-square&labelColor=fff1e8&color=fff1e8">
-</p>
+🟢 En desarrollo </>
 
-<p align="left">
-  Reserva pistas deportivas, espacios municipales y actividades
-  como excursiones en pocos clics. Disponibilidad en tiempo real
-  y gestión de reservas, todo desde un solo lugar.
-</p>
+Descripción breve del segundo proyecto, siguiendo el mismo formato que el anterior para mantener la consistencia visual entre todas las cards.
 
-<p align="left">
+GitHub Demo
 
-<img src="https://img.shields.io/badge/HTML-ff5c00?style=flat-square&logo=html5&logoColor=white">
-
-<img src="https://img.shields.io/badge/CSS-ff5c00?style=flat-square&logo=css3&logoColor=white">
-
-<img src="https://img.shields.io/badge/JavaScript-ff5c00?style=flat-square&logo=javascript&logoColor=white">
-
-</p>
-
-<p align="left">
-
-<a href="https://github.com/">
-  <img src="https://img.shields.io/badge/GitHub-171717?style=flat-square&logo=github&logoColor=white">
-</a>
-
-&nbsp;
-
-<a href="https://example.com">
-  <img src="https://img.shields.io/badge/Ver_proyecto-ff5c00?style=flat-square&logo=googlechrome&logoColor=white">
-</a>
-
-</p>
-
-</td>
-</tr>
-</table>
-
+</td> </tr> </table>
 </div>
 
 <br/>
