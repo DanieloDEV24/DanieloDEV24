@@ -62,8 +62,8 @@ Desarrollador **Full Stack** y docente en desarrollo web. Me gusta construir cos
 
 <div align="center">
 
-<!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=DanieloDEV24&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F97316&icon_color=F97316&text_color=ffffff&border_radius=10"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanieloDEV24&layout=compact&hide_border=true&bg_color=0D1117&title_color=F97316&text_color=ffffff&border_radius=10"/> -->
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=DanieloDEV24&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F97316&icon_color=F97316&text_color=ffffff&border_radius=10"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=DanieloDEV24&layout=compact&hide_border=true&bg_color=0D1117&title_color=F97316&text_color=ffffff&border_radius=10"/>
 
 <br/>
 
