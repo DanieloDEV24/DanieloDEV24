@@ -83,27 +83,7 @@ Desarrollador **Full Stack** y docente en desarrollo web. Me gusta construir cos
 
 <!-- ⚠️ Cambia "reservalo-2" y "fuentedepiedraturismo" por los nombres exactos (case-sensitive) de tus repos públicos. Con un nombre que no existe, la tarjeta no carga. -->
 <div align="center">
-<table> <tr> <td width="600">
-<span style="color:
-#2dd4bf">Resérvalo.</span>
-
-🟢 En desarrollo </>
-
-Reserva pistas deportivas, espacios municipales y actividades como excursiones en pocos clics. Disponibilidad en tiempo real y gestión de reservas, todo desde un solo lugar.
-
-GitHub Demo
-
-</td> </tr> </table> <!-- Copia el bloque <tr>...</tr> de arriba para cada nuevo proyecto que quieras añadir a la tabla --> <table> <tr> <td width="600">
-<span style="color:
-#2dd4bf">Otro Proyecto.</span>
-
-🟢 En desarrollo </>
-
-Descripción breve del segundo proyecto, siguiendo el mismo formato que el anterior para mantener la consistencia visual entre todas las cards.
-
-GitHub Demo
-
-</td> </tr> </table>
+<a href="https://github.com/DanieloDEV24/NOMBRE-DEL-REPO"><img src="https://raw.githubusercontent.com/DanieloDEV24/DanieloDEV24/main/reservalo-card.png" width="100%" alt="Resérvalo - card del proyecto"/></a>
 </div>
 
 <br/>
