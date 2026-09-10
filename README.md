@@ -69,8 +69,6 @@ Desarrollador **Full Stack** y docente en desarrollo web. Me gusta construir cos
 
 <img src="https://streak-stats.demolab.com?user=DanieloDEV24&hide_border=true&background=0D1117&border_radius=10&ring=F97316&fire=F97316&currStreakNum=F97316&sideNums=F97316&currStreakLabel=F97316&sideLabels=F97316&dates=F97316"/>
 
-<br/><br/>
-
 <img src="https://contribkit.app/user/DanieloDEV24.svg?palette=sunset&shape=rounded&background=transparent" alt="Gráfico de contribuciones" width="100%"/>
 
 <!-- ℹ️ ghchart.rshah.org no permite cambiar el color de los días sin commits (limitación del propio servicio). Se cambió a contribkit.app, que sí soporta paleta + fondo personalizados. Si el naranja de "sunset" no te convence del todo, prueba cambiando "palette=sunset" por "gruvbox" o "monokai" en la URL. -->
