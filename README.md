@@ -20,68 +20,39 @@
 
 ## 🧑‍💻 Sobre mí
 
-<table>
-<tr>
-<td valign="top" width="60%">
+Desarrollador **Full Stack** y docente en desarrollo web. Me gusta construir cosas que funcionen y que la gente use de verdad — y compartir lo que sé para que otros aprendan a hacerlo también. Me adapto a lo que cada proyecto necesita y siempre busco mejorar.
 
-Desarrollador **Full Stack** y docente en desarrollo web.
+<div align="center">
 
-Me gusta construir cosas que funcionen y que la gente use de verdad — y compartir lo que sé para que otros aprendan a hacerlo también. Me adapto a lo que cada proyecto necesita y siempre busco mejorar.
+`🚀 +3 proyectos reales` &nbsp;·&nbsp; `🛠️ +8 herramientas` &nbsp;·&nbsp; `📅 +1 año de experiencia` &nbsp;·&nbsp; `🎓 docente`
 
-`Código limpio` · `proyectos reales` · `resultados medibles`
-
-</td>
-<td align="center" width="40%">
-
-|  |  |
-|:---:|:---:|
-| 🚀 **+3** | 🛠️ **+8** |
-| proyectos reales | herramientas |
-| 📅 **+1** | 🎓 |
-| año de experiencia | docente |
-
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
 ## ⚙️ Tecnologías
 
-<table align="center">
-<tr>
-<th align="left">🔧 Backend</th>
-<td>
+<div align="center">
 
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white&labelColor=1a1a2e"/> <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=CodeIgniter&logoColor=white&labelColor=1a1a2e"/> <img src="https://img.shields.io/badge/Java-F97316?style=flat&logo=openjdk&logoColor=white&labelColor=1a1a2e"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white&labelColor=1a1a2e"/>
+<sub>BACKEND</sub><br/>
+<img src="https://img.shields.io/badge/PHP-F97316?style=flat&logo=PHP&logoColor=white&labelColor=1a1a2e"/> <img src="https://img.shields.io/badge/CodeIgniter-F97316?style=flat&logo=CodeIgniter&logoColor=white&labelColor=1a1a2e"/> <img src="https://img.shields.io/badge/Java-F97316?style=flat&logo=openjdk&logoColor=white&labelColor=1a1a2e"/> <img src="https://img.shields.io/badge/MySQL-F97316?style=flat&logo=MySQL&logoColor=white&labelColor=1a1a2e"/>
 
-</td>
-</tr>
-<tr>
-<th align="left">🎨 Frontend</th>
-<td>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white&labelColor=1a1a2e"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white&labelColor=1a1a2e"/> <img src="https://img.shields.io/badge/JavaScript-F97316?style=flat&logo=JavaScript&logoColor=white&labelColor=1a1a2e"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white&labelColor=1a1a2e"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white&labelColor=1a1a2e"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white&labelColor=1a1a2e"/>
+<sub>FRONTEND</sub><br/>
+<img src="https://img.shields.io/badge/HTML5-F97316?style=flat&logo=HTML5&logoColor=white&labelColor=1a1a2e"/> <img src="https://img.shields.io/badge/CSS3-F97316?style=flat&logo=CSS3&logoColor=white&labelColor=1a1a2e"/> <img src="https://img.shields.io/badge/JavaScript-F97316?style=flat&logo=JavaScript&logoColor=white&labelColor=1a1a2e"/> <img src="https://img.shields.io/badge/TypeScript-F97316?style=flat&logo=TypeScript&logoColor=white&labelColor=1a1a2e"/> <img src="https://img.shields.io/badge/jQuery-F97316?style=flat&logo=jQuery&logoColor=white&labelColor=1a1a2e"/> <img src="https://img.shields.io/badge/Bootstrap-F97316?style=flat&logo=Bootstrap&logoColor=white&labelColor=1a1a2e"/>
 
-</td>
-</tr>
-<tr>
-<th align="left">🌐 CMS & datos</th>
-<td>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=WordPress&logoColor=white&labelColor=1a1a2e"/> <img src="https://img.shields.io/badge/JSON-F97316?style=flat&logo=JSON&logoColor=white&labelColor=1a1a2e"/>
+<sub>CMS & DATOS</sub><br/>
+<img src="https://img.shields.io/badge/WordPress-F97316?style=flat&logo=WordPress&logoColor=white&labelColor=1a1a2e"/> <img src="https://img.shields.io/badge/JSON-F97316?style=flat&logo=JSON&logoColor=white&labelColor=1a1a2e"/>
 
-</td>
-</tr>
-<tr>
-<th align="left">🛠️ Herramientas</th>
-<td>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white&labelColor=1a1a2e"/> <img src="https://img.shields.io/badge/Linux-F97316?style=flat&logo=Linux&logoColor=white&labelColor=1a1a2e"/> <img src="https://img.shields.io/badge/VS%20Code-0078D7?style=flat&logo=visual-studio-code&logoColor=white&labelColor=1a1a2e"/>
+<sub>HERRAMIENTAS</sub><br/>
+<img src="https://img.shields.io/badge/Git-F97316?style=flat&logo=Git&logoColor=white&labelColor=1a1a2e"/> <img src="https://img.shields.io/badge/Linux-F97316?style=flat&logo=Linux&logoColor=white&labelColor=1a1a2e"/> <img src="https://img.shields.io/badge/VS%20Code-F97316?style=flat&logo=visual-studio-code&logoColor=white&labelColor=1a1a2e"/>
 
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
@@ -89,12 +60,12 @@ Me gusta construir cosas que funcionen y que la gente use de verdad — y compar
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DanieloDEV24&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F97316&icon_color=F97316&text_color=c9d1d9&border_radius=10"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanieloDEV24&layout=compact&hide_border=true&bg_color=0D1117&title_color=F97316&text_color=c9d1d9&border_radius=10"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=DanieloDEV24&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&border_radius=10"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanieloDEV24&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&border_radius=10"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=DanieloDEV24&hide_border=true&background=0D1117&ring=F97316&fire=F97316&currStreakLabel=F97316&border_radius=10"/>
+<img src="https://streak-stats.demolab.com?user=DanieloDEV24&theme=radical&hide_border=true&background=0D1117&border_radius=10"/>
 
 </div>
 
@@ -105,8 +76,8 @@ Me gusta construir cosas que funcionen y que la gente use de verdad — y compar
 <!-- ⚠️ Cambia "reservalo-2" y "fuentedepiedraturismo" por los nombres exactos (case-sensitive) de tus repos públicos. Con un nombre que no existe, la tarjeta no carga. -->
 <div align="center">
 
-<a href="https://github.com/DanieloDEV24/reservalo-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DanieloDEV24&repo=reservalo-2&hide_border=true&bg_color=0D1117&title_color=F97316&text_color=c9d1d9&border_radius=10"/></a>
-<a href="https://github.com/DanieloDEV24/fuentedepiedraturismo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DanieloDEV24&repo=fuentedepiedraturismo&hide_border=true&bg_color=0D1117&title_color=F97316&text_color=c9d1d9&border_radius=10"/></a>
+<a href="https://github.com/DanieloDEV24/reservalo-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DanieloDEV24&repo=reservalo-2&theme=radical&hide_border=true&bg_color=0D1117&border_radius=10"/></a>
+<a href="https://github.com/DanieloDEV24/fuentedepiedraturismo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DanieloDEV24&repo=fuentedepiedraturismo&theme=radical&hide_border=true&bg_color=0D1117&border_radius=10"/></a>
 
 </div>
 
@@ -116,36 +87,8 @@ Me gusta construir cosas que funcionen y que la gente use de verdad — y compar
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="180">
-
-<a href="https://www.linkedin.com/in/daniel-ruiz-soto-831885315/">
-<img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="60"/>
-<br/><sub><b>LinkedIn</b></sub>
-</a>
-
-</td>
-<td align="center" width="180">
-
-<a href="mailto:danielruizdeveloper@gmail.com">
-<img src="https://img.shields.io/badge/-F97316?style=for-the-badge&logo=gmail&logoColor=white" width="60"/>
-<br/><sub><b>Gmail</b></sub>
-</a>
-
-</td>
-<td align="center" width="180">
-
-<a href="https://github.com/DanieloDEV24">
-<img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" width="60"/>
-<br/><sub><b>GitHub</b></sub>
-</a>
-
-</td>
-</tr>
-</table>
-
-<sub>💬 Siempre abierto a hablar de nuevos proyectos y colaboraciones</sub>
+<!-- 🖼️ Sustituye la URL de abajo por la ruta de tu imagen (por ejemplo, súbela al repo DanieloDEV24 y usa: https://raw.githubusercontent.com/DanieloDEV24/DanieloDEV24/main/contacto.png) -->
+<img src="URL_DE_TU_IMAGEN_AQUI" width="100%" alt="Contacto"/>
 
 </div>
 
