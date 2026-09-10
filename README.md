@@ -48,7 +48,7 @@ Desarrollador **Full Stack** y docente en desarrollo web. Me gusta construir cos
 <img src="https://cdn.simpleicons.org/json/F97316" width="48" height="48" title="JSON"/>&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/git/F97316" width="48" height="48" title="Git"/>&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/linux/F97316" width="48" height="48" title="Linux"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/DanieloDEV24/DanieloDEV24/main/vscode-orange.svg" width="48" height="48" title="VS Code"/>
+<img src="https://api.iconify.design/mdi/microsoft-visual-studio-code.svg?color=%23F97316" width="48" height="48" title="VS Code"/>
 
 <!-- ℹ️ El icono de VS Code ya no existe en ningún CDN de iconos de marca (Simple Icons lo retiró por marca registrada). Este SVG está alojado en tu propio repo, sube "vscode-orange.svg" a la raíz de DanieloDEV24/DanieloDEV24 junto al banner. -->
 
