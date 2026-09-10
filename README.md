@@ -82,22 +82,21 @@ Desarrollador **Full Stack** y docente en desarrollo web. Me gusta construir cos
 <!-- ⚠️ Cambia "reservalo-2" y "fuentedepiedraturismo" por los nombres exactos (case-sensitive) de tus repos públicos. Con un nombre que no existe, la tarjeta no carga. -->
 <div align="center">
 
-<div align="center">
-
 <table>
 <tr>
-<td width="100%" style="border-radius: 16px;">
+<td width="100%">
 
-<img src="./assets/reservalo-preview.png"
-     width="100%"
-     alt="Reservalo - Preview del proyecto">
+<img src="./assets/reservalo-preview.png" width="100%" alt="Reservalo">
 
-<br><br>
+<br>
 
-<h1 align="left">Reservalo. <span style="color:#00e0ff;">→</span></h1>
+<h1 align="left">
+  Reservalo.
+  <span style="color:#ff5c00;">↗</span>
+</h1>
 
 <p align="left">
-  <strong>● En desarrollo</strong> &nbsp; <code>&lt;/&gt;</code>
+  <img src="https://img.shields.io/badge/●_En_desarrollo-ff5c00?style=flat-square&labelColor=fff1e8&color=fff1e8">
 </p>
 
 <p align="left">
@@ -108,20 +107,24 @@ Desarrollador **Full Stack** y docente en desarrollo web. Me gusta construir cos
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/HTML-00E0FF?style=flat-square&logo=html5&logoColor=111111">
-<img src="https://img.shields.io/badge/CSS-00E0FF?style=flat-square&logo=css3&logoColor=111111">
-<img src="https://img.shields.io/badge/JavaScript-00E0FF?style=flat-square&logo=javascript&logoColor=111111">
+<img src="https://img.shields.io/badge/HTML-ff5c00?style=flat-square&logo=html5&logoColor=white">
+
+<img src="https://img.shields.io/badge/CSS-ff5c00?style=flat-square&logo=css3&logoColor=white">
+
+<img src="https://img.shields.io/badge/JavaScript-ff5c00?style=flat-square&logo=javascript&logoColor=white">
 
 </p>
 
 <p align="left">
 
 <a href="https://github.com/">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-171717?style=flat-square&logo=github&logoColor=white">
 </a>
 
+&nbsp;
+
 <a href="https://example.com">
-  <img src="https://img.shields.io/badge/Live_Demo-00E0FF?style=flat-square&logo=googlechrome&logoColor=111111">
+  <img src="https://img.shields.io/badge/Ver_proyecto-ff5c00?style=flat-square&logo=googlechrome&logoColor=white">
 </a>
 
 </p>
@@ -129,11 +132,6 @@ Desarrollador **Full Stack** y docente en desarrollo web. Me gusta construir cos
 </td>
 </tr>
 </table>
-
-</div>
-
-<a href="https://github.com/DanieloDEV24/reservalo-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DanieloDEV24&repo=reservalo-2&theme=radical&hide_border=true&bg_color=0D1117&border_radius=10"/></a>
-<a href="https://github.com/DanieloDEV24/fuentedepiedraturismo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DanieloDEV24&repo=fuentedepiedraturismo&theme=radical&hide_border=true&bg_color=0D1117&border_radius=10"/></a>
 
 </div>
 
