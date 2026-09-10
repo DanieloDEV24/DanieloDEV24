@@ -88,13 +88,11 @@ Desarrollador **Full Stack** y docente en desarrollo web. Me gusta construir cos
   <a href="https://github.com/DanieloDEV24/reservalo2.0">
     <img src="https://raw.githubusercontent.com/DanieloDEV24/DanieloDEV24/main/reservalo-card.png"
          width="49%"
-         height="205"
          alt="Resérvalo - card del proyecto">
   </a>
   <a href="https://github.com/DanieloDEV24/fuentedepiedraturismo">
     <img src="https://raw.githubusercontent.com/DanieloDEV24/DanieloDEV24/main/turismo-card.png"
          width="49%"
-         height="205"
          alt="Fuente de Piedra Turismo - card del proyecto">
   </a>
 </p>
@@ -103,13 +101,11 @@ Desarrollador **Full Stack** y docente en desarrollo web. Me gusta construir cos
   <a href="https://github.com/DanieloDEV24/rotulosmoncayo">
     <img src="https://raw.githubusercontent.com/DanieloDEV24/DanieloDEV24/main/moncayo-card.png"
          width="49%"
-         height="205"
          alt="Rótulos Moncayo - card del proyecto">
   </a>
   <a href="https://github.com/DanieloDEV24/maynosolutions">
     <img src="https://raw.githubusercontent.com/DanieloDEV24/DanieloDEV24/main/myno-card.png"
          width="49%"
-         height="205"
          alt="Myno Solutions - card del proyecto">
   </a>
 </p>
