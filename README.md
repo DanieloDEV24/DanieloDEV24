@@ -112,8 +112,8 @@ GitHub Demo
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/daniel-ruiz-soto-831885315/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/ff5c00" width="45" height="45" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/daniel-ruiz-soto-831885315/" target="_blank">
+    <img src="https://img.icons8.com/?size=50&id=13930&format=png&color=FF5C00" width="45" height="45" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;
   <a href="mailto:danielruizdeveloper@gmail.com">
