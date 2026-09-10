@@ -62,12 +62,14 @@ Desarrollador **Full Stack** y docente en desarrollo web. Me gusta construir cos
 
 <div align="center">
 
+<img src="https://streak-stats.demolab.com?user=DanieloDEV24&hide_border=true&background=0D1117&border_radius=10&ring=F97316&fire=F97316&currStreakNum=F97316&sideNums=F97316&currStreakLabel=F97316&sideLabels=F97316&dates=F97316"/>
+
+<br/>
+
 <img height="165" src="https://github-stats-extended.vercel.app/api?username=DanieloDEV24&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F97316&icon_color=F97316&text_color=ffffff&border_radius=10"/>
 <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=DanieloDEV24&layout=compact&hide_border=true&bg_color=0D1117&title_color=F97316&text_color=ffffff&border_radius=10"/>
 
 <br/>
-
-<img src="https://streak-stats.demolab.com?user=DanieloDEV24&hide_border=true&background=0D1117&border_radius=10&ring=F97316&fire=F97316&currStreakNum=F97316&sideNums=F97316&currStreakLabel=F97316&sideLabels=F97316&dates=F97316"/>
 
 <img src="https://contribkit.app/user/DanieloDEV24.svg?palette=sunset&shape=rounded&background=transparent" alt="Gráfico de contribuciones" width="100%"/>
 
