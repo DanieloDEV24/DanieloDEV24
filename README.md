@@ -34,27 +34,54 @@ Desarrollador **Full Stack** y docente en desarrollo web. Me gusta construir cos
 
 <table width="100%">
 <tr>
-<td align="center" width="25%"><img src="https://img.shields.io/badge/PHP-F97316?style=for-the-badge&logo=PHP&logoColor=white&labelColor=1a1a2e" height="32"/></td>
-<td align="center" width="25%"><img src="https://img.shields.io/badge/CodeIgniter-F97316?style=for-the-badge&logo=CodeIgniter&logoColor=white&labelColor=1a1a2e" height="32"/></td>
-<td align="center" width="25%"><img src="https://img.shields.io/badge/Java-F97316?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1a1a2e" height="32"/></td>
-<td align="center" width="25%"><img src="https://img.shields.io/badge/MySQL-F97316?style=for-the-badge&logo=MySQL&logoColor=white&labelColor=1a1a2e" height="32"/></td>
+<th align="center" width="25%">🔧 Backend</th>
+<th align="center" width="25%">🎨 Frontend</th>
+<th align="center" width="25%">🌐 CMS & Datos</th>
+<th align="center" width="25%">🛠️ Herramientas</th>
 </tr>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/HTML5-F97316?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=1a1a2e" height="32"/></td>
-<td align="center"><img src="https://img.shields.io/badge/CSS3-F97316?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=1a1a2e" height="32"/></td>
-<td align="center"><img src="https://img.shields.io/badge/JavaScript-F97316?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=1a1a2e" height="32"/></td>
-<td align="center"><img src="https://img.shields.io/badge/TypeScript-F97316?style=for-the-badge&logo=TypeScript&logoColor=white&labelColor=1a1a2e" height="32"/></td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/jQuery-F97316?style=for-the-badge&logo=jQuery&logoColor=white&labelColor=1a1a2e" height="32"/></td>
-<td align="center"><img src="https://img.shields.io/badge/Bootstrap-F97316?style=for-the-badge&logo=Bootstrap&logoColor=white&labelColor=1a1a2e" height="32"/></td>
-<td align="center"><img src="https://img.shields.io/badge/WordPress-F97316?style=for-the-badge&logo=WordPress&logoColor=white&labelColor=1a1a2e" height="32"/></td>
-<td align="center"><img src="https://img.shields.io/badge/JSON-F97316?style=for-the-badge&logo=JSON&logoColor=white&labelColor=1a1a2e" height="32"/></td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/Git-F97316?style=for-the-badge&logo=Git&logoColor=white&labelColor=1a1a2e" height="32"/></td>
-<td align="center"><img src="https://img.shields.io/badge/Linux-F97316?style=for-the-badge&logo=Linux&logoColor=white&labelColor=1a1a2e" height="32"/></td>
-<td align="center" colspan="2"><img src="https://img.shields.io/badge/VS%20Code-F97316?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=1a1a2e" height="32"/></td>
+<td align="center" valign="top">
+
+<img src="https://img.shields.io/badge/PHP-F97316?style=for-the-badge&logo=PHP&logoColor=white&labelColor=1a1a2e" height="32"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/CodeIgniter-F97316?style=for-the-badge&logo=CodeIgniter&logoColor=white&labelColor=1a1a2e" height="32"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Java-F97316?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1a1a2e" height="32"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/MySQL-F97316?style=for-the-badge&logo=MySQL&logoColor=white&labelColor=1a1a2e" height="32"/>
+
+</td>
+<td align="center" valign="top">
+
+<img src="https://img.shields.io/badge/HTML5-F97316?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=1a1a2e" height="32"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/CSS3-F97316?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=1a1a2e" height="32"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/JavaScript-F97316?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=1a1a2e" height="32"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/TypeScript-F97316?style=for-the-badge&logo=TypeScript&logoColor=white&labelColor=1a1a2e" height="32"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/jQuery-F97316?style=for-the-badge&logo=jQuery&logoColor=white&labelColor=1a1a2e" height="32"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Bootstrap-F97316?style=for-the-badge&logo=Bootstrap&logoColor=white&labelColor=1a1a2e" height="32"/>
+
+</td>
+<td align="center" valign="top">
+
+<img src="https://img.shields.io/badge/WordPress-F97316?style=for-the-badge&logo=WordPress&logoColor=white&labelColor=1a1a2e" height="32"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/JSON-F97316?style=for-the-badge&logo=JSON&logoColor=white&labelColor=1a1a2e" height="32"/>
+
+</td>
+<td align="center" valign="top">
+
+<img src="https://img.shields.io/badge/Git-F97316?style=for-the-badge&logo=Git&logoColor=white&labelColor=1a1a2e" height="32"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Linux-F97316?style=for-the-badge&logo=Linux&logoColor=white&labelColor=1a1a2e" height="32"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/VS%20Code-F97316?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=1a1a2e" height="32"/>
+
+</td>
 </tr>
 </table>
 
