@@ -32,58 +32,29 @@ Desarrollador **Full Stack** y docente en desarrollo web. Me gusta construir cos
 
 ## ⚙️ Tecnologías
 
-<table width="100%">
-<tr>
-<th align="center">🔧 Backend&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
-<th align="center">🎨 Frontend</th>
-<th align="center">🌐 CMS & Datos&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
-<th align="center">🛠️ Herramientas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
-</tr>
-<tr>
-<td align="center" valign="top">
+<div align="center">
 
-<img src="https://img.shields.io/badge/PHP-F97316?style=for-the-badge&logo=PHP&logoColor=white&labelColor=1a1a2e" height="32"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/CodeIgniter-F97316?style=for-the-badge&logo=CodeIgniter&logoColor=white&labelColor=1a1a2e" height="32"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/Java-F97316?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1a1a2e" height="32"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/MySQL-F97316?style=for-the-badge&logo=MySQL&logoColor=white&labelColor=1a1a2e" height="32"/>
+<img src="https://cdn.simpleicons.org/php/F97316" width="48" height="48" title="PHP"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/codeigniter/F97316" width="48" height="48" title="CodeIgniter"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/openjdk/F97316" width="48" height="48" title="Java"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/mysql/F97316" width="48" height="48" title="MySQL"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/html5/F97316" width="48" height="48" title="HTML5"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/css3/F97316" width="48" height="48" title="CSS3"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/javascript/F97316" width="48" height="48" title="JavaScript"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/typescript/F97316" width="48" height="48" title="TypeScript"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/jquery/F97316" width="48" height="48" title="jQuery"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/bootstrap/F97316" width="48" height="48" title="Bootstrap"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/wordpress/F97316" width="48" height="48" title="WordPress"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/json/F97316" width="48" height="48" title="JSON"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/git/F97316" width="48" height="48" title="Git"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/linux/F97316" width="48" height="48" title="Linux"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/visualstudiocode/F97316" width="48" height="48" title="VS Code"/>
 
-</td>
-<td align="center" valign="top">
+<br/><br/>
 
-<img src="https://img.shields.io/badge/HTML5-F97316?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=1a1a2e" height="32"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/CSS3-F97316?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=1a1a2e" height="32"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/JavaScript-F97316?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=1a1a2e" height="32"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/TypeScript-F97316?style=for-the-badge&logo=TypeScript&logoColor=white&labelColor=1a1a2e" height="32"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/jQuery-F97316?style=for-the-badge&logo=jQuery&logoColor=white&labelColor=1a1a2e" height="32"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/Bootstrap-F97316?style=for-the-badge&logo=Bootstrap&logoColor=white&labelColor=1a1a2e" height="32"/>
+<sub>**Backend:** PHP · CodeIgniter · Java · MySQL &nbsp;|&nbsp; **Frontend:** HTML5 · CSS3 · JavaScript · TypeScript · jQuery · Bootstrap &nbsp;|&nbsp; **CMS:** WordPress · JSON &nbsp;|&nbsp; **Herramientas:** Git · Linux · VS Code</sub>
 
-</td>
-<td align="center" valign="top">
-
-<img src="https://img.shields.io/badge/WordPress-F97316?style=for-the-badge&logo=WordPress&logoColor=white&labelColor=1a1a2e" height="32"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/JSON-F97316?style=for-the-badge&logo=JSON&logoColor=white&labelColor=1a1a2e" height="32"/>
-
-</td>
-<td align="center" valign="top">
-
-<img src="https://img.shields.io/badge/Git-F97316?style=for-the-badge&logo=Git&logoColor=white&labelColor=1a1a2e" height="32"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/Linux-F97316?style=for-the-badge&logo=Linux&logoColor=white&labelColor=1a1a2e" height="32"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/VS%20Code-F97316?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=1a1a2e" height="32"/>
-
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
@@ -97,6 +68,10 @@ Desarrollador **Full Stack** y docente en desarrollo web. Me gusta construir cos
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=DanieloDEV24&theme=radical&hide_border=true&background=0D1117&border_radius=10"/>
+
+<br/><br/>
+
+<img src="https://ghchart.rshah.org/F97316/DanieloDEV24" alt="Gráfico de contribuciones" width="100%"/>
 
 </div>
 
