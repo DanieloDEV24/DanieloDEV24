@@ -52,8 +52,6 @@ Desarrollador **Full Stack** y docente en desarrollo web. Me gusta construir cos
 
 <!-- ℹ️ El icono de VS Code ya no existe en Simple Icons (Microsoft pidió retirar sus logos de marca), así que este viene de Iconify (set Material Design Icons) en vez de cdn.simpleicons.org -->
 
-<br/><br/>
-
 <sub>**Backend:** PHP · CodeIgniter · Java · MySQL &nbsp;|&nbsp; **Frontend:** HTML5 · CSS3 · JavaScript · TypeScript · jQuery · Bootstrap &nbsp;|&nbsp; **CMS:** WordPress · JSON &nbsp;|&nbsp; **Herramientas:** Git · Linux · VS Code</sub>
 
 </div>
