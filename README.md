@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://github.com/DanieloDEV24">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=F97316&center=true&vCenter=true&width=600&lines=Hola%2C+me+llamo+Daniel+Ruiz+%F0%9F%91%8B;Desarrollador+Web+Full-Stack+%F0%9F%92%BB;Docente+en+Desarrollo+Web+%F0%9F%93%9A;Aprendo+r%C3%A1pido%2C+construyo+cosas+reales+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=F97316&center=true&vCenter=true&width=600&lines=Hola%2C+me+llamo+Daniel+Ruiz+%F0%9F%91%8B;Desarrollador+Web+Full-Stack+%F0%9F%92%BB;Docente+en+Desarrollo+Web+%F0%9F%93%9A" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -20,74 +20,68 @@
 
 ## 🧑‍💻 Sobre mí
 
-Soy Daniel, desarrollador Full Stack y docente en desarrollo web. Me gusta construir cosas que funcionen y que la gente use de verdad, y también compartir lo que sé para que otros puedan aprender a hacerlo. Aprendo rápido, me adapto a lo que el proyecto necesita y siempre busco mejorar.
-
 <table>
 <tr>
-<td align="center" width="33%">
+<td valign="top" width="60%">
 
-### 🚀 +3
-proyectos reales
+Desarrollador **Full Stack** y docente en desarrollo web.
 
-</td>
-<td align="center" width="33%">
+Me gusta construir cosas que funcionen y que la gente use de verdad — y compartir lo que sé para que otros aprendan a hacerlo también. Me adapto a lo que cada proyecto necesita y siempre busco mejorar.
 
-### 🛠️ +8
-herramientas
+`Código limpio` · `proyectos reales` · `resultados medibles`
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="40%">
 
-### 📅 +1
-año de experiencia
+|  |  |
+|:---:|:---:|
+| 🚀 **+3** | 🛠️ **+8** |
+| proyectos reales | herramientas |
+| 📅 **+1** | 🎓 |
+| año de experiencia | docente |
 
 </td>
 </tr>
 </table>
 
-> Código limpio, proyectos reales, resultados medibles.
-
-<br/>
-
-## 💼 Actualmente
-
-- 🏛️ **Ayuntamiento de Fuente de Piedra** — desarrollo de aplicaciones web para el consistorio: una plataforma de gestión y reservas de instalaciones y actividades municipales, y la web oficial de turismo del municipio.
-- 🧑‍💻 **Freelance** — diseño y desarrollo de sitios web para empresas, incluyendo Rótulos Moncayo. Actualmente en desarrollo la web de Myno Solutions y una plataforma de reservas para el centro de belleza N23.
-
 <br/>
 
 ## ⚙️ Tecnologías
 
-<div align="center">
+<table align="center">
+<tr>
+<th align="left">🔧 Backend</th>
+<td>
 
-**Backend**
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white&labelColor=1a1a2e"/> <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=CodeIgniter&logoColor=white&labelColor=1a1a2e"/> <img src="https://img.shields.io/badge/Java-F97316?style=flat&logo=openjdk&logoColor=white&labelColor=1a1a2e"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white&labelColor=1a1a2e"/>
 
-<img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white"/>
-<img src="https://img.shields.io/badge/CodeIgniter-EF4223.svg?style=for-the-badge&logo=CodeIgniter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<th align="left">🎨 Frontend</th>
+<td>
 
-**Frontend**
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white&labelColor=1a1a2e"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white&labelColor=1a1a2e"/> <img src="https://img.shields.io/badge/JavaScript-F97316?style=flat&logo=JavaScript&logoColor=white&labelColor=1a1a2e"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white&labelColor=1a1a2e"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white&labelColor=1a1a2e"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white&labelColor=1a1a2e"/>
 
-<img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<th align="left">🌐 CMS & datos</th>
+<td>
 
-**CMS & otros**
+<img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=WordPress&logoColor=white&labelColor=1a1a2e"/> <img src="https://img.shields.io/badge/JSON-F97316?style=flat&logo=JSON&logoColor=white&labelColor=1a1a2e"/>
 
-<img src="https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=WordPress&logoColor=white"/>
-<img src="https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=JSON&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<th align="left">🛠️ Herramientas</th>
+<td>
 
-**Herramientas**
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white&labelColor=1a1a2e"/> <img src="https://img.shields.io/badge/Linux-F97316?style=flat&logo=Linux&logoColor=white&labelColor=1a1a2e"/> <img src="https://img.shields.io/badge/VS%20Code-0078D7?style=flat&logo=visual-studio-code&logoColor=white&labelColor=1a1a2e"/>
 
-<img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-
-</div>
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -95,12 +89,12 @@ año de experiencia
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DanieloDEV24&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F97316&icon_color=F97316&text_color=c9d1d9"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanieloDEV24&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F97316&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=DanieloDEV24&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F97316&icon_color=F97316&text_color=c9d1d9&border_radius=10"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanieloDEV24&layout=compact&hide_border=true&bg_color=0D1117&title_color=F97316&text_color=c9d1d9&border_radius=10"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=DanieloDEV24&theme=radical&hide_border=true&background=0D1117&ring=F97316&fire=F97316&currStreakLabel=F97316"/>
+<img src="https://streak-stats.demolab.com?user=DanieloDEV24&hide_border=true&background=0D1117&ring=F97316&fire=F97316&currStreakLabel=F97316&border_radius=10"/>
 
 </div>
 
@@ -108,22 +102,50 @@ año de experiencia
 
 ## 📌 Proyectos destacados
 
-<!-- Sustituye los enlaces por los de tus repos reales -->
+<!-- ⚠️ Cambia "reservalo-2" y "fuentedepiedraturismo" por los nombres exactos (case-sensitive) de tus repos públicos. Con un nombre que no existe, la tarjeta no carga. -->
 <div align="center">
 
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DanieloDEV24&repo=nombre-del-repo&theme=radical&hide_border=true&bg_color=0D1117&title_color=F97316&text_color=c9d1d9"/></a>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DanieloDEV24&repo=otro-repo&theme=radical&hide_border=true&bg_color=0D1117&title_color=F97316&text_color=c9d1d9"/></a>
+<a href="https://github.com/DanieloDEV24/reservalo-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DanieloDEV24&repo=reservalo-2&hide_border=true&bg_color=0D1117&title_color=F97316&text_color=c9d1d9&border_radius=10"/></a>
+<a href="https://github.com/DanieloDEV24/fuentedepiedraturismo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DanieloDEV24&repo=fuentedepiedraturismo&hide_border=true&bg_color=0D1117&title_color=F97316&text_color=c9d1d9&border_radius=10"/></a>
 
 </div>
 
 <br/>
 
-## 📫 Contacto
+## 📫 Hablemos
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/daniel-ruiz-soto-831885315/"><img src="https://img.shields.io/badge/-Daniel%20Ruiz%20Soto-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:danielruizdeveloper@gmail.com"><img src="https://img.shields.io/badge/-danielruizdeveloper%40gmail.com-F97316?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<table>
+<tr>
+<td align="center" width="180">
+
+<a href="https://www.linkedin.com/in/daniel-ruiz-soto-831885315/">
+<img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="60"/>
+<br/><sub><b>LinkedIn</b></sub>
+</a>
+
+</td>
+<td align="center" width="180">
+
+<a href="mailto:danielruizdeveloper@gmail.com">
+<img src="https://img.shields.io/badge/-F97316?style=for-the-badge&logo=gmail&logoColor=white" width="60"/>
+<br/><sub><b>Gmail</b></sub>
+</a>
+
+</td>
+<td align="center" width="180">
+
+<a href="https://github.com/DanieloDEV24">
+<img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" width="60"/>
+<br/><sub><b>GitHub</b></sub>
+</a>
+
+</td>
+</tr>
+</table>
+
+<sub>💬 Siempre abierto a hablar de nuevos proyectos y colaboraciones</sub>
 
 </div>
 
