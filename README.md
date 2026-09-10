@@ -112,34 +112,20 @@ GitHub Demo
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="180">
-
-<a href="https://www.linkedin.com/in/daniel-ruiz-soto-831885315/">
-<img src="URL_LOGO_LINKEDIN" width="60" height="60"/>
-<br/><sub><b>LinkedIn</b></sub>
-</a>
-
-</td>
-<td align="center" width="180">
-
-<a href="mailto:danielruizdeveloper@gmail.com">
-<img src="URL_LOGO_GMAIL" width="60" height="60"/>
-<br/><sub><b>Gmail</b></sub>
-</a>
-
-</td>
-<td align="center" width="180">
-
-<a href="https://github.com/DanieloDEV24">
-<img src="URL_LOGO_GITHUB" width="60" height="60"/>
-<br/><sub><b>GitHub</b></sub>
-</a>
-
-</td>
-</tr>
-</table>
+<p align="left">
+  <a href="https://www.linkedin.com/in/daniel-ruiz-soto-831885315/" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/ff5c00" width="48" />
+  </a>&nbsp;
+  <a href="mailto:danielruizdeveloper@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/ff5c00" width="48" />
+  </a>&nbsp;
+  <a href="https://github.com/DanieloDEV24" target="_blank">
+    <img src="https://cdn.simpleicons.org/github/ff5c00" width="48" />
+  </a>&nbsp;
+  <a href="https://tuweb.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/internetarchive/ff5c00" width="48" />
+  </a>
+</p>
 
 </div>
 
