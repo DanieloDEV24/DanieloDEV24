@@ -32,22 +32,22 @@ Desarrollador **Full Stack** y docente en desarrollo web. Me gusta construir cos
 
 ## ⚙️ Tecnologías
 
-<div align="center">
+<div align="start">
 
 <sub>BACKEND</sub><br/>
 <img src="https://img.shields.io/badge/PHP-F97316?style=flat&logo=PHP&logoColor=white&labelColor=1a1a2e"/> <img src="https://img.shields.io/badge/CodeIgniter-F97316?style=flat&logo=CodeIgniter&logoColor=white&labelColor=1a1a2e"/> <img src="https://img.shields.io/badge/Java-F97316?style=flat&logo=openjdk&logoColor=white&labelColor=1a1a2e"/> <img src="https://img.shields.io/badge/MySQL-F97316?style=flat&logo=MySQL&logoColor=white&labelColor=1a1a2e"/>
 
-<br/><br/>
+<br/>
 
 <sub>FRONTEND</sub><br/>
 <img src="https://img.shields.io/badge/HTML5-F97316?style=flat&logo=HTML5&logoColor=white&labelColor=1a1a2e"/> <img src="https://img.shields.io/badge/CSS3-F97316?style=flat&logo=CSS3&logoColor=white&labelColor=1a1a2e"/> <img src="https://img.shields.io/badge/JavaScript-F97316?style=flat&logo=JavaScript&logoColor=white&labelColor=1a1a2e"/> <img src="https://img.shields.io/badge/TypeScript-F97316?style=flat&logo=TypeScript&logoColor=white&labelColor=1a1a2e"/> <img src="https://img.shields.io/badge/jQuery-F97316?style=flat&logo=jQuery&logoColor=white&labelColor=1a1a2e"/> <img src="https://img.shields.io/badge/Bootstrap-F97316?style=flat&logo=Bootstrap&logoColor=white&labelColor=1a1a2e"/>
 
-<br/><br/>
+<br/>
 
 <sub>CMS & DATOS</sub><br/>
 <img src="https://img.shields.io/badge/WordPress-F97316?style=flat&logo=WordPress&logoColor=white&labelColor=1a1a2e"/> <img src="https://img.shields.io/badge/JSON-F97316?style=flat&logo=JSON&logoColor=white&labelColor=1a1a2e"/>
 
-<br/><br/>
+<br/>
 
 <sub>HERRAMIENTAS</sub><br/>
 <img src="https://img.shields.io/badge/Git-F97316?style=flat&logo=Git&logoColor=white&labelColor=1a1a2e"/> <img src="https://img.shields.io/badge/Linux-F97316?style=flat&logo=Linux&logoColor=white&labelColor=1a1a2e"/> <img src="https://img.shields.io/badge/VS%20Code-F97316?style=flat&logo=visual-studio-code&logoColor=white&labelColor=1a1a2e"/>
