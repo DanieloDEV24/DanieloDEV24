@@ -13,6 +13,7 @@
 <a href="https://github.com/DanieloDEV24"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/daniel-ruiz-soto-831885315/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:danielruizdeveloper@gmail.com"><img src="https://img.shields.io/badge/Email-F97316?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://danielo24.dev"><img src="https://img.shields.io/badge/Web-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
 </div>
 
